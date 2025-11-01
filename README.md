@@ -17,19 +17,21 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya-flutter-o1" alt="aditya-flutter-o1" /></a> </p>
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
-
+  
 <div align="center">
   <table>
     <tr>
       <td>
-        <ul>
-          <li>🔭 I’m currently working on <b>amazon clone</b></li>
-          <li>🌱 I’m currently learning <b>Python</b></li>
-          <li>👯 I’m looking to collaborate on <b>Cloud native projects</b></li>
-          <li>🤝 I’m looking for help with <b>DevOps</b></li>
-          <li>💬 Ask me about <b>App dev</b></li>
-           <li>📫 How to reach me **aditya.r.chikane@gmail.com**</li>
-        </ul>
+        <div style="font-size:20px;">
+          <ul>
+            <li>🔭 I’m currently working on <b>amazon clone</b></li>
+            <li>🌱 I’m currently learning <b>Python</b></li>
+            <li>👯 I’m looking to collaborate on <b>Cloud native projects</b></li>
+            <li>🤝 I’m looking for help with <b>DevOps</b></li>
+            <li>💬 Ask me about <b>App dev</b></li>
+             <li>📫 How to reach me **aditya.r.chikane@gmail.com**</li>
+          </ul>
+        </div>
       </td>
       <td>
         <img src="https://user-images.githubusercontent.com/74038190/216656963-09118229-8a9e-4af0-910c-c37f35f2e210.gif" width="320" alt="animation">
@@ -37,6 +39,7 @@
     </tr>
   </table>
 </div>
+
 
 
 
